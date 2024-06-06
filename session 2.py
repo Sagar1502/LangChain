@@ -9,3 +9,4 @@ print(len(vector))
 Sentence represents with a vector has 768 value
 dimensionality : 768 
 """
+print("sagar samantasinghar")
